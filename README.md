@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is  N V V Satya Yoganand Addala and my GitHub alias is Satya-22.
+My name is  Addala N V V Satya Yoganand and my GitHub alias is Satya-22.
 
 ## Optional Next Steps
 
